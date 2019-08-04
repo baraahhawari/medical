@@ -1,0 +1,303 @@
+body{
+	width: 970px;
+	font-family:"Montserrat";
+	margin: 0;
+}
+/*main with pic background*/
+main{
+	background-image: url("../images/smile.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+}
+
+header{
+	margin-left:30px;
+	margin-right:30px;
+	position: fixed;
+}
+
+h1{ 
+	float: left;
+	margin-top: 30px;
+	padding-right: 400px;
+}
+
+nav{
+	margin-top:20px;
+	float:right;
+	word-spacing:10px;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+#family{
+	clear: both;
+	text-align:left;
+	margin-left:30px;
+	margin-right:30px;
+	padding-top: 40px;
+}
+
+h2{
+	font-size:50px;
+	margin-top: 40px;
+}
+
+.next{
+		text-align:center;
+		font-size:15px;
+		background-color: white;
+		clear: both;
+}
+
+#blu{
+	float: left;	
+	margin: 200px 0px 30px 0px;
+	padding:30px 30px 30px 30px; 
+	text-align:justify;
+	width: 263px;
+	font-size:18px;
+	background-color: #D4FDFE;
+	border-radius: 10px;
+}
+
+#blu:first-child, #blu:last-child{
+	margin-top: 220px;
+	background-color: #B9F7F9;
+}
+
+span{
+	color:#0078aa;
+	float: left;
+}
+
+#z{
+	background-color: white;
+	padding: 19px;
+	border-radius: 30px;
+}
+#z:hover{
+	background-color:#B9F7F9;
+	border-color:#0078aa; 
+}
+
+.scroll{
+	float:right;
+	margin-top:60px;
+}
+
+table{
+	position: fixed;
+	background-color: white;
+	padding:20px;
+}
+/*About Jevelin Clinic*/
+
+.clinic{
+	clear:both;
+}
+
+#pic{
+	float: left;
+	width: 263px;
+	margin: 100px 150px 80px 0;
+	padding:30px 40px 30px 30px; 
+	text-align:justify;
+	font-size:18px; 
+}
+
+#x{
+	background-color:#F4F4F4;
+	padding:20px 150px 20px 20px;
+	border-radius: 10px;
+	font-size:18px;
+}
+/*How we can help you*/
+
+h4{
+	text-align:center;
+	font-size:30px;
+}
+
+.help{
+	text-align:center;
+	font-size:15px;
+	/*background-color:#CCFBF1;*/
+}
+
+#see{
+	float: left;	
+	padding:30px 30px 30px 30px; 
+	text-align:justify;
+	width: 263px;
+	font-size:18px;
+	background-color:white;
+}
+/*PROFESSIONAL DENTIST*/
+#pic1{
+	float: left;
+	width: 350px; 
+	margin-left: 30px;
+	padding:30px 40px 30px 40px; 
+	text-align:justify;
+	font-size:15px; 
+}
+
+#c{
+	background-color:#3CE2AD;
+	padding: 19px;
+	border-radius: 30px;
+	color: white;
+	font-size:15px;
+}
+
+#c:hover{
+	background-color:white;
+	color: black;
+	border-color:#3CE2AD; 
+}
+
+.gray{
+	clear: both;
+}
+
+#gray{
+	background-color: #F4F4F4;
+	float: left;
+	padding:30px 80px 30px 80px;
+	font-size:20px;
+}
+
+/*Our Special Offers*/
+
+h5{ 
+	background-color: white;
+	text-align:center;
+	font-size:30px;
+	line-height: 100px;
+	margin-top: 100px;
+}
+
+aside{
+	clear: both;
+	background-image: url("../images/laptob.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1000px;
+}
+
+#blue{
+	float: left;	
+	margin: 200px 0px 30px 0px;
+	padding:30px 30px 30px 30px; 
+	text-align:center;
+	width: 263px;
+	font-size:18px;
+	background-color:white;
+	border-radius: 10px;
+}
+
+.que{
+	clear: both;
+	}
+
+#que{
+	float: left;
+	width: 400px;
+	margin: 80px 25px 30px 0px;
+	padding:30px 30px 30px 30px;
+}
+
+#v { 
+	padding: 30px 150px 30px 30px;
+	border-radius: 30px;
+	background-color: white;
+	color: gray;
+	font-size:13px;
+}
+/*map*/
+iframe{
+	width: 100%;
+}
+
+.se {
+	clear: both;
+}
+
+#se{
+	float: left;	
+	padding:30px 30px 30px 12px; 
+	width: 200px;
+	font-size:12px;
+	background-color:#F4F4F4;
+}
+
+#ce{
+	float: right;
+}
+
+/*Make An Appointment*/
+.name{
+	clear: both;
+}
+
+#name{
+	float: left;
+	color: white;	
+	padding:200px 30px 100px 10px; 	
+	margin: 30px 10px 30px 10px; 
+	text-align:center;
+	width: 200px;
+	font-size:18px;
+	background-color:#6CDAD9;
+	border-radius: 10px;
+}
+
+#nam{
+	float: left;	
+	padding:0 30px 10px 10px; 	
+	margin: 30px 10px 30px 80px; 
+	width: 300px;
+	font-size:18px;
+}
+
+#n{
+	padding:10px 200px 10px 50px;
+	border: none;
+	border-bottom:solid #F4F4F4;
+	font-size:15px; 	
+}
+
+/*footer*/
+.f{
+	clear: both;
+	background-color: black;
+	color: white;
+}
+
+.footer{
+	line-height: 40px;
+	padding:50px 20px 50px 20px;
+	clear: both;
+	float: left;
+	font-size:15px;
+	width: 250px;
+}
+
+#footer{
+	float: left;
+	padding:20px;
+	width: 300px;
+}
+.aaa{
+	clear: both;
+	background-color: #363636;
+	padding:30px;
+	color: white;
+	text-align:center;
+}
