@@ -193,8 +193,8 @@ aside{
 
 #blue{
 	float: left;	
-	margin: 200px 0px 30px 0px;
-	padding:30px 30px 30px 30px; 
+	margin:250px 0px 30px 0px;
+	padding:50px 30px 50px 30px; 
 	text-align:center;
 	width: 263px;
 	font-size:18px;
@@ -267,16 +267,29 @@ iframe{
 }
 
 #n{
-	padding:10px 200px 10px 50px;
+	padding:10px 100px 10px 50px;
 	border: none;
 	border-bottom:solid #F4F4F4;
 	font-size:15px; 	
 }
 
+#nn{
+	padding:10px 136px 10px 50px;
+	border: none;
+	border-bottom:solid #F4F4F4;
+	font-size:15px; 	
+}
+#nnn{
+	padding:10px 169px 10px 50px;
+	border: none;
+	border-bottom:solid #F4F4F4;
+	font-size:15px; 
+}
+
 /*footer*/
 .f{
 	clear: both;
-	background-color: black;
+	background-color: #817d96;
 	color: white;
 }
 
